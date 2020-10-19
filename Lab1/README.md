@@ -1,0 +1,1 @@
+-- Deployment create script az group deployment create --resource-group LAP1 --template-file ./azuredeploy.json --parameters ./azuredeploy.parameters.json
