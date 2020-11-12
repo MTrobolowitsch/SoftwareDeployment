@@ -1,5 +1,5 @@
-PROD:
-DEV: 
+PROD: https://lab2nodetrobolowitsch.azurewebsites.net/
+DEV: https://lap2nodedev.azurewebsites.net/
 
 # Release Approvement
 Es wurde eine simple Node.JS Express Web App erstellt und mit einem Test (mochaJS) ausgestattet,
