@@ -1,3 +1,6 @@
+PROD:
+DEV: 
+
 # Release Approvement
 Es wurde eine simple Node.JS Express Web App erstellt und mit einem Test (mochaJS) ausgestattet,
 welcher den REST Call testet.
