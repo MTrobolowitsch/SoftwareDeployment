@@ -18,3 +18,4 @@ Danach wird der Container gepullt und das Image mittels AKS gestartet.
 ### Dockerfile
 Dockerfile ist anbei zu finden, welches das für das kleine nodejs programm aus Lab2 gemacht wurde.
 Link zum deployten Container: http://20.73.37.199/
+Link zur Registry: TrobRegistry.azurecr.io
